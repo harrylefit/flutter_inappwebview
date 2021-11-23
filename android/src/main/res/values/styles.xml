@@ -19,8 +19,8 @@
 
     <style name="StartTheme">
         <item name="android:windowContentOverlay">@null</item>
-        <item name="colorAccent">@color/blue</item>
-        <item name="colorPrimary">@color/grey_dark</item>
-        <item name="colorPrimaryDark">@color/blue</item>
+<!--        <item name="colorAccent">@color/blue</item>-->
+<!--        <item name="colorPrimary">@color/grey_dark</item>-->
+<!--        <item name="colorPrimaryDark">@color/blue</item>-->
     </style>
 </resources>
